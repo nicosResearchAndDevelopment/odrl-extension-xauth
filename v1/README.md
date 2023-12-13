@@ -4,8 +4,6 @@ Suggested prefix for the 'Time Extension' prefix:
 
 `xauth`
 
-URI: <https://github.com/nicosResearchAndDevelopment/odrl-extension-xauth/tree/main/v1/>
-
 ## Table of Content
 
 - [**Prologue**](#prologue)
@@ -14,9 +12,10 @@ URI: <https://github.com/nicosResearchAndDevelopment/odrl-extension-xauth/tree/m
 - [**Operator**](#operator)
     - [**fulfills**](#fulfills)
 - [**Right Operand**](#right-operand)
-  - [**identification**](#identification)
+    - [**Identification**](#identification)
+    - [**Authentication**](#authentication)
+    - [**Verification**](#verification)
 - [**References**](#references)
-
 
 *Table of Content "xtime, ODRL extension for Authentication and Authorization"*.
 
@@ -50,9 +49,17 @@ All `xauth` Operators:
 
 All `xauth` Right Operands:
 
-> [identification](#identification)
+> [Identification](#identification), [Authentication](#authentication), [Verification](#verification)
 
-### identification
+### Identification
+
+---
+
+### Authentication
+
+---
+
+### Verification
 
 ---
 
